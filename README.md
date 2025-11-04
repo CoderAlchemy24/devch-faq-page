@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://devch-faq-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/CoderAlchemy24/devch-faq-page.git">
       Solution
     </a>
     <span> | </span>
@@ -27,25 +27,16 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+ 
 - [Built with](#built-with)
 - [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](./screenshot.png)
-
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What have you learned/improved?
-- Your wisdom? :)
--->
 
 
 ### Built with
@@ -62,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
+
 - GitHub [@coderAlchemy24](https://github.com/coderalchemy24)
