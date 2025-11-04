@@ -1,0 +1,89 @@
+
+.inter-heading {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 36px;
+}
+
+.inter-heading2 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 24px;
+}
+
+.inter-body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.blue-color{
+    color:#4E80EE;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+body{
+     margin:72px auto;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    line-height: 1.75;
+    
+}
+
+.header{
+    width: 100%;
+    padding-bottom: 72px;
+    background-color:#FFFFFF;
+    color: #030616;
+    margin:auto;
+    text-align: center;
+}
+
+.header h1{
+    margin-bottom:16px;
+}
+
+.main{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #F8FAFC;
+    color: #030616;
+    text-align: center;
+}
+
+.main article{
+    max-width: 580px;
+    margin: 72px auto 48px;
+    text-align: left;
+}
+
+.main h2{
+    margin: 32px auto 24px;
+}
+
+.main ul,
+ .main ol{
+    margin: 24px auto;
+    padding-left: 20px;
+}
+
+.main h2:last-of-type{
+    margin: 48px auto 32px;
+}
+
+
+
